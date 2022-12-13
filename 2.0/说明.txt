@@ -1,0 +1,41 @@
+http://msdn.microsoft.com/en-us/library/ms978492.aspx
+
+
+
+Building Distributed Applications
+Microsoft .NET Pet Shop 2.0
+  
+Microsoft Developer Network
+
+New! Read the Middleware Company benchmark of the Microsoft? .NET Pet Shop 2.0 application. The benchmark compares the performance and scalability of this .NET Web application to the performance of an equivalent, revised, and fully optimized J2EE? application developed by the Middleware Company. The benchmark compares the performance and scalability characteristics of .NET and J2EE with three different benchmark test suites: 
+
+Basic data-driven Web application benchmark 
+Distributed transaction benchmark 
+XML Web service benchmark 
+The Microsoft .NET Pet Shop 2.0 illustrates basic and advanced coding concepts within an overall architectural framework that can be applied in Web-based application development projects. The application highlights coding techniques for building n-tier applications that can be deployed on clusters of load-balanced servers or on a single server. The application illustrates such basic concepts as middle-tier data caching, middle-tier session-state management, distributed transactions involving .NET/COM+ serviced components, and building a Web service facade to expose application logic for XML/SOAP-based integration with other applications. 
+
+The .NET Pet Shop 2.0 application is functionally equivalent to the Sun? Microsystems Java? Pet Store 1.2 blueprint application, and can be used to compare the coding concepts, basic application server features, and architectures of .NET and J2EE. 
+
+The code is accompanied by two articles, an overview paper that compares the .NET Pet Shop application and architecture to the Java Pet Store blueprint and a distributed transaction benchmark paper, which discusses different techniques for performing database transactions within .NET with benchmark data for comparison.
+
+Download Petshop.msi.
+
+The code is accompanied by three articles: 
+
+Read the Middleware Company benchmark, presenting benchmark results of the .NET reference application running on Windows? 2000 and Windows? Server 2003. 
+Read the architectural overview article, Using .NET to Implement Sun Microsystems¡¯s Java Pet Store J2EE Blueprint Application, and compare the .NET blueprint to the Java/J2EE blueprint architecture. 
+Read about various database transaction coding techniques within .NET and view benchmark data illustrating performance considerations for each, in the article Implementing Database Transactions with Microsoft .NET. 
+Note   For an overview of a variety of .NET samples, see Microsoft .NET Architectural Sample Applications. 
+Presentation
+Microsoft ASP.NET 
+Microsoft Visual C#? 
+Business Logic
+.NET class library 
+Visual C# 
+Data Access
+ADO.NET DataReader for maximum performance 
+.NET managed provider for Microsoft SQL Server? 
+Data
+SQL Server 
+Stored procedures 
+Database transactions 

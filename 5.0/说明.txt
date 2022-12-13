@@ -1,0 +1,41 @@
+http://www.codeplex.com/petshopvnext
+Last edited Jan 10 2008 at 11:54 PM by TerryLee, version 7 
+简介 
+基于.NET Framework 3.5的Petshop，使用LINQ to SQL改进数据访问层，使用WCF来提供RSS，并在UI层上做一些改进，如使用ASP.NET AJAX，ListView控件等。
+
+PetShop for .NET3.5 Weekly Drop 01 
+ 
+Release name is required  
+ 
+
+Released: Jan 11 2008  
+Updated:  Jan 10 2008 by TerryLee 
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+http://hi.baidu.com/baofen/blog/item/d8c38def51c4bd10fdfa3c8f.html
+petshop for framework 3.5(petshop 5.0)2008-07-27 20:59简介
+
+基于.NET Framework 3.5的Petshop，
+
+使用LINQ to SQL改进数据访问层
+
+PetShop.Model.DataContext.MSPetShop4DataContext 继承System.Data.Linq.DataContext
+
+PetShop.Model.ProductInfo与PetShop.Model.CategoryInfo实体类分别映射数据库表
+
+PetShop.Model.ProductInfo其中的Category属性存在一对一的关系
+
+PetShop.Model.CategoryInfo中的Products属性存在一对多的关系
+
+使用WCF来提供RSS，
+
+web/FeedService.svc目录下
+
+PetShop.SyndicationFeeds
+
+并在UI层上做一些改进，如使用ASP.NET AJAX，ListView控件等。
+
+代码下载
+ 

@@ -1,0 +1,24 @@
+Building Distributed Applications
+Microsoft .NET Pet Shop 4: Migrating an ASP.NET 1.1 Application to 2.0
+  
+Gregory Leake
+Microsoft Corporation
+
+Alan Le, Alex Arkhipov, Mike Hanley, and Steve Nyholm
+Vertigo Software, Inc.
+
+February 2006
+
+Applies to:
+   Microsoft .NET Framework 2.0
+   Microsoft Visual Studio 2005
+   Microsoft Windows Server 2003
+   Microsoft Internet Information Services
+   Microsoft Message Queuing
+   Microsoft SQL Server 2005
+   Oracle 10g Database
+
+Summary: The .NET Pet Shop application is designed to show the best practices for building enterprise, n-tier .NET 2.0 applications that may need to support a variety of database platforms and deployment scenarios. (25 printed pages)
+
+Click here to download .NET Pet Shop 4.0.msi.
+

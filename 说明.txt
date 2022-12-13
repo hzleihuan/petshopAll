@@ -1,0 +1,2 @@
+MSDN官方文档资料：
+http://msdn.microsoft.com/en-us/library/ms978487.aspx

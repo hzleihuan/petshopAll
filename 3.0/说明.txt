@@ -1,0 +1,43 @@
+Gregory Leake
+Microsoft Corporation
+
+James Duff
+Vertigo Software, Inc.
+
+May 2003
+
+Applies to:
+
+   Microsoft? .NET Framework 1.0 and 1.1
+   Microsoft? Windows 2000 and Windows Server? 2003
+   Microsoft? Internet Information Services
+   Microsoft? SQL Server? 2000
+   Oracle? 9i Database
+
+
+
+
+Microsoft PetShop 3.0 设计与实现--数据访问层
+
+ 
+
+  最近对多层设计实现和.Net产生了兴趣，从而研究了一下比较著名的多层范例程序――PetShop，现在的版本是3.0，和以前的版本从设计上已有一定的区别，应该是和Java的Petshop设计相当。
+
+关于一些Microsoft PetShop的来由、如何安装，所表现业务流程，数据库表结构等基本的信息的资料请大家参考下面文章
+
+ http://msdn.microsoft.com/library/en-us/dnbda/html/bdasamppet.asp 
+
+另外建议先看一下这篇文章：
+
+http://msdn.microsoft.com/library/en-us/dnbda/html/petshop3x.asp
+
+ 
+
+ (如有格式问题本文可到http://www.surfsky.com/bbs/myfiles/MSPetShop3.0%20Report.doc
+
+下载)
+
+ 
+
+本文将以设计和实现紧密结合的方式来分析，这也是我们广大实践型的软件开发人员的风格。先看一下设计图和具体实现VS.NET工程的表格。
+
